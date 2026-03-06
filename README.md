@@ -19,4 +19,6 @@ python example.py
 You should see log output in the console.
 
 ---
+## Troubleshooting in new update
 
+If the library does not work correctly on Windows, Run troubleshoot.ps1 command try resolve.
